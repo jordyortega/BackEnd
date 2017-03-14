@@ -1,0 +1,15 @@
+﻿* {
+    background-color: lightgrey;
+}
+#kalender {
+    width: 360px;
+}
+#countdown {
+    width: 360px;
+}
+#countdown h1 {
+    color: red;
+}
+#countdown h2 {
+    font-weight: bold;
+}
