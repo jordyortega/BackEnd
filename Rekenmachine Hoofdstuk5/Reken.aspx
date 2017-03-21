@@ -23,7 +23,7 @@
         <br />
         <asp:Label ID="lblUitkomst" runat="server" Text="Uitkomst"></asp:Label>
 
-    &nbsp;<asp:TextBox ID="txtUitkomst" runat="server"></asp:TextBox>
+    &nbsp;<asp:TextBox ID="txtUitkomst" runat="server" ReadOnly="true"></asp:TextBox>
 
         <br />
         <asp:CompareValidator ID="CompareValidator1" runat="server" ControlToCompare="txtGetal1" ControlToValidate="txtGetal2" Display="Dynamic" ErrorMessage="Vul dezelfde getallen in!"></asp:CompareValidator>
