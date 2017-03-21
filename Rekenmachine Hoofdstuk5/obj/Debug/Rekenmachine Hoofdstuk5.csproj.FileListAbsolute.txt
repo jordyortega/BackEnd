@@ -1,0 +1,33 @@
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\ApplicationInsights.config
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\roslyn\csc.exe
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\roslyn\vbc.exe
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Rekenmachine Hoofdstuk5.dll.config
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Rekenmachine Hoofdstuk5.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Rekenmachine Hoofdstuk5.pdb
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Microsoft.AI.DependencyCollector.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Microsoft.AI.Web.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Microsoft.AI.WindowsServer.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Microsoft.ApplicationInsights.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Microsoft.AI.DependencyCollector.xml
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Microsoft.AI.Web.xml
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Microsoft.AI.WindowsServer.xml
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Microsoft.ApplicationInsights.xml
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\obj\Debug\Rekenmachine Hoofdstuk5.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\obj\Debug\Rekenmachine Hoofdstuk5.dll
+D:\Visual Studio 2015\Projects\Rekenmachine Hoofdstuk5\Rekenmachine Hoofdstuk5\obj\Debug\Rekenmachine Hoofdstuk5.pdb
